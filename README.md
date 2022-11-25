@@ -4,12 +4,12 @@
 </p>
 <p align="center">
   <a href="https://github.com/SenuGamerBoy/Auto-Movie-Filter-Bot/stargazers">
-    <img src="https://img.shields.io/github/stars/SenuGamerBoy/Auto-Movie-Filter-Bot?style=social">
+    <img src="https://img.shields.io/github/stars/onlineroyal/Auto-Movie-Filter-Bot?style=social">
 
   </a>
   
   <a href="https://github.com/SenuGamerBoy/Auto-Movie-Filter-Bot/fork">
-    <img src="https://img.shields.io/github/forks/SenuGamerBoy/Auto-Movie-Filter-Bot?label=Fork&style=social">
+    <img src="https://img.shields.io/github/forks/onlineroyal/Auto-Movie-Filter-Bot?label=Fork&style=social">
 
   </a>  
 </p>
@@ -30,7 +30,7 @@
 ## Installation 👇
 
 ### Easy Way 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SenuGamerBoy/Auto-Movie-Filter-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/onlineroyal/Movie-Filter-Bot)
 ### Hard Way
 
 
@@ -45,7 +45,7 @@ Contact Me On [Telegram](https://t.me/senuinfinity)
 
 ## This Is Original Repo Link 💖
 
-* Original [Repo](https://github.com/SenuGamerBoy/Auto-Movie-Filter-Bot)
+* Original [Repo](https://github.com/onlineroyal/Movie-Filter-Bot)
 
 ## Full Tutorial
 * Tutorial Link [view on youtube](https://youtu.be/62PNPsQwIZ8)
