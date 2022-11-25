@@ -15,7 +15,7 @@
       "inline"
     ],
     "website": "https://www.youtube.com/channel/UCfdbT14iYapzG4xOMVPRgnA",
-    "repository": "https://github.com/SenuGamerBoy/Auto-Movie-Filter-Bot",
+    "repository": "https://github.com/onlineroyal/Auto-Movie-Filter-Bot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
